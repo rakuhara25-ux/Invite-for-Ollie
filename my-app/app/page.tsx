@@ -372,7 +372,7 @@ export default function Home() {
                 </h4>
               </div>
               <p className="japanese-text" style={{ fontSize: '1rem', marginLeft: '3rem', lineHeight: 1.8, color: 'var(--color-silver)' }}>
-                金沢駅よりバス一本<br />
+                金沢駅からバス一本<br />
                 <span style={{ fontSize: '0.9rem' }}>
                   1 bus from Kanazawa Station
                 </span>
