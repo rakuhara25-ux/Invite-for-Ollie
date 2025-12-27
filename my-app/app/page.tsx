@@ -233,9 +233,9 @@ export default function Home() {
                   </h4>
                 </div>
                 <p className="japanese-text" style={{ fontSize: '1.1rem', marginLeft: '3rem', lineHeight: 1.6 }}>
-                  2025年12月27日（土）<br />
+                  2025年12月27日（土） 18:00~<br />
                   <span style={{ fontSize: '0.9rem', color: 'var(--color-silver)' }}>
-                    December 27th, 2025 (Saturday)
+                    December 27th, 2025 (Saturday) 6:00 PM~
                   </span>
                 </p>
               </div>
